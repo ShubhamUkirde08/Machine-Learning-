@@ -384,5 +384,5 @@ r
 # In[44]:
 
 
-#r.to_csv('ecommerce prediction.csv',index=False)
+r.to_csv('ecommerce prediction.csv',index=False)
 
